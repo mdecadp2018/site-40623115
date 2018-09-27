@@ -339,20 +339,18 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180927231255.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180927231255.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20180927231255.2">&lt;section&gt;
+<t tx="leo.20180927231255.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180927231641.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -369,10 +367,11 @@ make.start()
 * 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。
 
 </t>
-<t tx="leo.20180928002403.1">&lt;section&gt;
+<t tx="leo.20180928002403.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180928002420.1"># Week 1
 
 ### 第一週

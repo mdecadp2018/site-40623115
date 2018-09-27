@@ -39,8 +39,10 @@
 </v>
 </v>
 <v t="leo.20180927231255.1" a="E"><vh>第一週</vh>
-<v t="leo.20180928002403.1"><vh>分支</vh></v>
-<v t="leo.20180927231255.2" a="E"><vh>說明</vh>
+<v t="leo.20180928002403.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20180928004406.1"><vh>說明</vh></v>
+</v>
+<v t="leo.20180927231255.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20180928002504.1"><vh>照片</vh></v>
 </v>
 </v>
@@ -365,17 +367,17 @@ make.start()
 * 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。
 
 </t>
-<t tx="leo.20180928002403.1"># Week 1
+<t tx="leo.20180928002403.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180928002504.1"></t>
+<t tx="leo.20180928004406.1"># Week 1
 
 ### 第一週
 
 * 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
-<t tx="leo.20180928002504.1">&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-13-28.png" width="640" height="492" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-14-51.png" width="640" height="492" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-15-02.png" width="640" height="492" frameborder="0"&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-21-44.png" width="640" height="492" frameborder="0"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

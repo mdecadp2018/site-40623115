@@ -46,17 +46,6 @@
 <v t="leo.20180928002504.1"><vh>照片</vh></v>
 </v>
 </v>
-<v t="leo.20180928004921.1"><vh>各式內容引用範例</vh>
-<v t="leo.20180928004921.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180928004921.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180928004921.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180928004921.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180928004921.6" a="E"><vh>導入影片</vh>
-<v t="leo.20180928004921.7"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
 <v t="leo.20180927231641.1"><vh>第二週</vh>
 <v t="leo.20180927231641.2"><vh>說明</vh></v>
 </v>
@@ -390,82 +379,5 @@ make.start()
 ### 第一週
 
 * 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
-<t tx="leo.20180928004921.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180928004921.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180928004921.3"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180928004921.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180928004921.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180928004921.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180928004921.7">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 </tnodes>
 </leo_file>

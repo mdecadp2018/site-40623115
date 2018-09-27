@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -39,7 +39,12 @@
 </v>
 </v>
 <v t="leo.20180927231255.1" a="E"><vh>第一週</vh>
-<v t="leo.20180927231255.2"><vh>說明</vh></v>
+<v t="leo.20180928002403.1" a="E"><vh>分支</vh>
+<v t="leo.20180928002420.1"><vh>說明</vh></v>
+</v>
+<v t="leo.20180927231255.2" a="E"><vh>說明</vh>
+<v t="leo.20180928002504.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20180927231641.1" a="E"><vh>第二週</vh>
 <v t="leo.20180927231641.2"><vh>說明</vh></v>
@@ -343,11 +348,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180927231255.2"># Week 1
+<t tx="leo.20180927231255.2">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-### 第一週
-
-* 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+</t>
 <t tx="leo.20180927231641.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -361,6 +366,24 @@ make.start()
 
 ### 第二週
 
-* 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。</t>
+* 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。
+
+</t>
+<t tx="leo.20180928002403.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180928002420.1"># Week 1
+
+### 第一週
+
+* 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+<t tx="leo.20180928002504.1">&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-13-28.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-14-51.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-15-02.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://127.0.0.1:8443/images/chrome_2018-09-28_00-21-44.png" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

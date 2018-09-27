@@ -2001,8 +2001,9 @@ def syntaxhighlight():
 <script type="text/javascript" src="/static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<style>
 img{
-    border:3px solid red;
+    border: 3px solid red;
 }
 </style>
 '''
@@ -2050,8 +2051,9 @@ init_mathjax();
 <script type="text/javascript" src="./../static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<style>
 img{
-    border:3px solid red;
+    border: 3px solid red;
 }
 </style>
 '''

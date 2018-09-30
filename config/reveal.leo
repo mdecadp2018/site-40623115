@@ -38,7 +38,7 @@
 <v t="leo.20180928004921.7"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20180927231255.1"><vh>第一週</vh>
+<v t="leo.20180927231255.1" a="E"><vh>第一週</vh>
 <v t="leo.20180928002403.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20180928004406.1"><vh>說明</vh></v>
 </v>
@@ -46,7 +46,7 @@
 <v t="leo.20180928002504.1"><vh>照片</vh></v>
 </v>
 </v>
-<v t="leo.20180927231641.1"><vh>第二週</vh>
+<v t="leo.20180927231641.1" a="E"><vh>第二週</vh>
 <v t="leo.20180927231641.2"><vh>說明</vh></v>
 </v>
 </v>
@@ -269,11 +269,15 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180927231255.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180927231255.2">&lt;/section&gt;
+
 @others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180927231641.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -294,14 +298,17 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20180928002504.1"></t>
+</t>
+<t tx="leo.20180928002504.1">
+&lt;iframe src="https://clients5.google.com/pagead/drt/dn/" aria-hidden="true" style="display: none;"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180928004406.1"># Week 1
 
 ### 第一週
 
-* 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+* 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+</t>
 <t tx="leo.20180928004921.1">&lt;section&gt;
 @others
 &lt;/section&gt;

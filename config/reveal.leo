@@ -302,7 +302,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;/script&gt;
 </t>
 <t tx="leo.20180928002504.1">
-&lt;iframe src="https://clients5.google.com/pagead/drt/dn/" aria-hidden="true" style="display: none;"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://clients5.google.com/pagead/drt/dn/"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20180928004406.1"># Week 1
 
 ### 第一週

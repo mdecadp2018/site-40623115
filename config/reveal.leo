@@ -182,7 +182,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 個人網際簡報 40623115 吳隆廷
+2018 Fall 分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;

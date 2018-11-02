@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180928004921.1"><vh>各式內容引用範例</vh>
+<v t="leo.20180928004921.1" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180928004921.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180928004921.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -92,6 +92,14 @@
 </v>
 <v t="leo.20181102102715.4" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102102715.5"><vh>照片</vh></v>
+</v>
+</v>
+<v t="leo.20181102111019.1" a="E"><vh>第八週</vh>
+<v t="leo.20181102111019.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181102111019.3"><vh>說明</vh></v>
+</v>
+<v t="leo.20181102111019.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181102111019.5"><vh>照片</vh></v>
 </v>
 </v>
 </v>
@@ -314,22 +322,18 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180927231255.2">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20180927231255.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20180928002403.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20180928002504.1">
 &lt;iframe src="https://clients5.google.com/pagead/drt/dn/"&gt;&lt;/iframe&gt;
 
@@ -428,21 +432,17 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102657.3"># Week 3
 
 </t>
-<t tx="leo.20181102102657.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102657.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102657.5">
 
 
@@ -458,21 +458,18 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102658.3"># Week 4
 
 
 </t>
-<t tx="leo.20181102102658.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102658.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20181102102658.5">
 
@@ -489,22 +486,18 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102659.3"># Week 5
 
 
 </t>
-<t tx="leo.20181102102659.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102659.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102659.5">
 
 
@@ -520,22 +513,19 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20181102102714.3"># Week 6
 
 
 </t>
-<t tx="leo.20181102102714.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102714.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102714.5">
 
 
@@ -551,22 +541,18 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102715.3"># Week 7
 
 
 </t>
-<t tx="leo.20181102102715.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102715.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102715.5">
 
 
@@ -582,27 +568,50 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181102102952.3"># Week 2
 
 ### 第二週
 
 * 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。
 </t>
-<t tx="leo.20181102102952.4">&lt;/section&gt;
-
-@others
-&lt;section data-markdown&gt;
+<t tx="leo.20181102102952.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20181102102952.5">
 
 
+</t>
+<t tx="leo.20181102111019.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102111019.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111019.3"># Week 8
+
+
+</t>
+<t tx="leo.20181102111019.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102111019.5">個人影片
 </t>
 </tnodes>
 </leo_file>

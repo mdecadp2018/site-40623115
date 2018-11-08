@@ -88,9 +88,14 @@
 <v t="leo.20181102102715.3"><vh>說明</vh></v>
 </v>
 </v>
-<v t="leo.20181102111019.1" a="E"><vh>第八週</vh>
+<v t="leo.20181102111019.1"><vh>第八週</vh>
 <v t="leo.20181102111019.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102111019.3"><vh>說明</vh></v>
+</v>
+</v>
+<v t="leo.20181109042641.1" a="E"><vh>第九週</vh>
+<v t="leo.20181109042641.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109042641.3"><vh>說明</vh></v>
 </v>
 </v>
 </v>
@@ -445,7 +450,7 @@ make.start()
 </t>
 <t tx="leo.20181102102657.3"># Week 3
 
-###git 常用指令
+### git 常用指令
 
 * git add . 新增所有改版內容
 
@@ -668,5 +673,22 @@ img {
 
 
 </t>
+<t tx="leo.20181109042641.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109042641.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109042641.3"># Week 9
+
+* 期中考週~祝大家考試順利。</t>
 </tnodes>
 </leo_file>

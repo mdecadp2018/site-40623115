@@ -67,7 +67,27 @@ $(function(){
 </ul>
 </confmenu></header>
 <div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='課程內容.html'>課程內容</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a><li><a href='Week9.html'>Week9</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>Week1 << <a href='Week1.html'>Previous</a> <a href='Week3.html'>Next</a> >> Week3<br /><h1>Week2</h1>
-<p>說明如何管理網際投影片與網誌<br>說明如何以 ShareX 取圖，如何管理 CMSimfly 作業倉儲。</p>
+<ol>
+<li>前往github網站更改branch，首先到setting--&gt;左邊點選Branches，將master改成gh-pages。<img src="./../images/2018-11-08_22-37-49.png" width="500" height="470" alt=""></li>
+<li>開啟cmd命令提示字元，到自己的資料夾去檢查分支--&gt;git branch<img src="./../images/2018-11-08_22-37-05.png" width="500" height="250" alt=""></li>
+<li>使用cmd命令提示字元在自己的資輛夾中啟動wsgi.py--&gt;python wsgi.py<img src="./../images/2018-11-08_22-36-55.png" width="500" height="261" alt=""></li>
+<li>前往瀏覽器開啟https://localhost:8443<img src="./../images/2018-11-08_22-36-08.png" width="500" height="520" alt=""></li>
+<li>登入網站login--&gt;密碼:admin(預設)</li>
+<li>開啟shareX--&gt;
+<ol>
+<li>鍵盤按下Ctrl+Print Screen擷取畫面(範圍)</li>
+<li>鍵盤按下Shift+Print Screen錄影畫面(範圍)<img src="./../images/2018-11-08_22-34-08.png" width="500" height="352" alt=""></li>
+</ol>
+</li>
+<li>前往Leo launcher--&gt;Open--&gt;自己的資料夾--&gt;cmsimfly.leo--&gt;找到syntaxhighlight(動態)與syntaxhighlight2(靜態)--&gt;加入下列文字
+<div class="line number1 index0 alt2"><code class="html plain">&lt;</code><code class="html keyword">style</code><code class="html plain">&gt;</code></div>
+<div class="line number2 index1 alt1"><code class="html plain">img {</code></div>
+<div class="line number3 index2 alt2"><code class="html spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="html plain">border: 3px solid red;</code></div>
+<div class="line number4 index3 alt1"><code class="html plain">}</code></div>
+<div class="line number5 index4 alt2"><code class="html plain">&lt;/</code><code class="html keyword">style</code><code class="html plain">&gt;<img src="./../images/2018-11-08_22-31-35.png" width="500" height="250" alt=""></code></div>
+</li>
+<li><code class="html plain"></code></li>
+</ol>
 <p>上課影片</p>
 <p><iframe width="560" height="314" src="//www.youtube.com/embed/PNfuu95a3ns?t=746s" allowfullscreen="allowfullscreen"></iframe></p>
 <p><iframe width="560" height="314" src="//www.youtube.com/embed/hEkMv2KqixY?t=141s" allowfullscreen="allowfullscreen"></iframe></p>

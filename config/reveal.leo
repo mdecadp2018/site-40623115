@@ -74,32 +74,20 @@
 <v t="leo.20181102102659.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102102659.3"><vh>說明</vh></v>
 </v>
-<v t="leo.20181102102659.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181102102659.5"><vh>照片</vh></v>
-</v>
 </v>
 <v t="leo.20181102102714.1" a="E"><vh>第六週</vh>
 <v t="leo.20181102102714.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102102714.3"><vh>說明</vh></v>
-</v>
-<v t="leo.20181102102714.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181102102714.5"><vh>照片</vh></v>
 </v>
 </v>
 <v t="leo.20181102102715.1" a="E"><vh>第七週</vh>
 <v t="leo.20181102102715.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102102715.3"><vh>說明</vh></v>
 </v>
-<v t="leo.20181102102715.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181102102715.5"><vh>照片</vh></v>
-</v>
 </v>
 <v t="leo.20181102111019.1" a="E"><vh>第八週</vh>
 <v t="leo.20181102111019.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181102111019.3"><vh>說明</vh></v>
-</v>
-<v t="leo.20181102111019.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181102111019.5"><vh>照片</vh></v>
 </v>
 </v>
 </v>
@@ -339,14 +327,26 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 </t>
 <t tx="leo.20180928002504.1">
-&lt;iframe src="https://clients5.google.com/pagead/drt/dn/"&gt;&lt;/iframe&gt;
+* 在cmd命令提示字元輸入python wsgi.py近端啟動[動態]個人網站。
 
-</t>
+* login進入編輯[動態]個人網站--&gt;密碼admin(預設)。
+
+* 點擊Edit All可編輯所有個人網站的頁面。
+
+* 編輯完畢後，按下Save鍵或Ctrl+S儲存頁面，接著按下頁面右上角黑色按鈕generate_pages轉換成遠端。</t>
 <t tx="leo.20180928004406.1"># Week 1
 
 ### 第一週
 
-* 請學員登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+* 進入mde.tw網站後，前往issue --&gt;Week1 登入gittub後連結至 https://classroom.github.com/a/fGqXU9kO 領取個人期中作業。
+
+* 在github倉儲中在網誌中加入github.io的命令 例: https://mdecadp2018.github.io/site-40623115就會連結到個人網站。
+前往cmd命令提示字元，將github個人倉儲 clone 下來。
+
+* 使用cmd命令提示字元進入site資料夾，使用git branch 檢查分支，並利用git checkout 更換分支master--&gt;gh-pages。
+
+
+
 </t>
 <t tx="leo.20180928004921.1">&lt;section&gt;
 @others
@@ -441,6 +441,24 @@ make.start()
 </t>
 <t tx="leo.20181102102657.3"># Week 3
 
+git 常用指令
+
+git add .
+
+新增所有改版內容
+
+git commit -m "提交訊息, 用來辨識版本"
+
+在近端提交改版內容
+
+git push
+
+將近端改版內容推送到遠端
+
+git pull
+
+拉下遠端新版本內容, 在 fossil scm 使用 fossil update
+
 </t>
 <t tx="leo.20181102102657.4">
 &lt;section data-markdown&gt;
@@ -451,7 +469,25 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102102657.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="leo.20181102102657.5">git log
+
+查驗 git 提交推送紀錄
+
+git status
+
+查驗狀態
+
+git 新增提交推送的身分綁定
+
+git config --global user.name "user.name"
+
+git config --global user.email "user.email"
+
+若網路直接連線過慢, 可以透過 proxy 執行 git
+
+git config --global http.proxy http://proxy.kmol.info:3128
+
+以上的 git config 會將設定存入 Y:/home/.gitconfig 檔案中
 
 
 </t>
@@ -472,7 +508,22 @@ make.start()
 </t>
 <t tx="leo.20181102102658.3"># Week 4
 
+* 了解如何使用git程式，並管理自己的git網頁和投影片，學習如何使用onshape繪圖軟體。
 
+* 進入mde.tw--&gt;18CADP--&gt;OnshapeWeek1使用說明
+
+* 回到cmd命令提示字元--&gt;如果近端不是最新的版本使用git pull更新到最新
+使用cmd命令提示字元--&gt;到自己的資料夾(site)--&gt;輸入python wsgi.py
+
+* 前往瀏覽器開啟https://localhost:8443(目前資料夾版本的近端)--&gt;前往編輯
+
+* 前往Leo launche--&gt;
+
+* Open pelican.leo開啟網頁編輯--&gt;Save--&gt;按下generate_pages轉成遠端--&gt;提交
+
+* Open reveal.leo開啟投影片編輯--&gt;Save--&gt;git push--&gt;提交
+
+* 可以直接在網站https://localhost:8444上模擬遠端檢查內容
 </t>
 <t tx="leo.20181102102658.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -501,20 +552,9 @@ make.start()
 </t>
 <t tx="leo.20181102102659.3"># Week 5
 
+說明如何在網頁上，將 Brython 執行過的程式，以 save as 的方式存成近端 .py 檔案。
 
-</t>
-<t tx="leo.20181102102659.4">
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102102659.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
-
-
+說明如何列出所使用 Python 版次與關鍵字。
 </t>
 <t tx="leo.20181102102714.1">&lt;section&gt;
 @others
@@ -532,19 +572,9 @@ make.start()
 </t>
 <t tx="leo.20181102102714.3"># Week 6
 
+說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結.
 
-</t>
-<t tx="leo.20181102102714.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102102714.5">
-
-
+說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排.
 </t>
 <t tx="leo.20181102102715.1">&lt;section&gt;
 @others
@@ -562,20 +592,11 @@ make.start()
 </t>
 <t tx="leo.20181102102715.3"># Week 7
 
+說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程.
 
-</t>
-<t tx="leo.20181102102715.4">
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
+說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .
 
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102102715.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
-
-
+展示如何在先前所建立的虛擬 Ubuntu 18.04 上啟動 https 協定下的 Fossil SCM 伺服器
 </t>
 <t tx="leo.20181102102952.1">&lt;section&gt;
 @others
@@ -596,7 +617,36 @@ make.start()
 
 ### 第二週
 
-* 如何使用LEO更改投影片及網誌內容，並且管理自己的網頁。
+* 前往github網站更改branch，先到setting--&gt;左邊點選Branches，將master改成gh-pages。
+
+* 開啟cmd命令提示字元，到自己的資料夾去檢查分支--&gt;git branch
+
+* 使用cmd命令提示字元在自己的資輛夾中啟動wsgi.py--&gt;python wsgi.py
+
+* 前往瀏覽器開啟https://localhost:8443
+登入網站login--&gt;密碼:admin(預設)
+
+* 開啟shareX--&gt;
+
+    鍵盤按下Ctrl+Print Screen擷取畫面(範圍)
+
+    鍵盤按下Shift+Print Screen錄影畫面(範圍)
+
+* 前往Leo launcher--&gt;Open--&gt;自己的資料夾--&gt;cmsimfly.leo--&gt;找到syntaxhighlight(動態)與syntaxhighlight2(靜態)--&gt;加入下列文字來新增近端與動態的圖片紅框
+
+@language python
+
+import os
+import subprocess
+import threading
+
+&lt;style&gt;
+img {
+    border: 3px solid red;
+}
+&lt;/style&gt;
+
+
 </t>
 <t tx="leo.20181102102952.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -606,9 +656,11 @@ make.start()
 &lt;/section&gt;
 </t>
 <t tx="leo.20181102102952.5">
+* 使用Leo launche--&gt;Open --&gt;reveal.leo更改投影片內容
 
+* 同方法使用Leo launche--&gt;Open --&gt;pelican.leo更改網誌內容
 
-</t>
+* 前往cmd命令提示字元--&gt;進入自己的資料夾(site)--&gt;使用git status來檢查是否有異常--&gt;再用git add . 新增全部更新內容--&gt;git commit -m "文字說明" 提交--&gt;最後 git push 完成推送</t>
 <t tx="leo.20181102111019.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -625,17 +677,6 @@ make.start()
 </t>
 <t tx="leo.20181102111019.3"># Week 8
 
-
-</t>
-<t tx="leo.20181102111019.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102111019.5">個人影片
-</t>
+說明機電資整合設計專案流程所需的相關套件運用與技術.</t>
 </tnodes>
 </leo_file>

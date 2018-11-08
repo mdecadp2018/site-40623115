@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623115 吳隆廷 個人網誌</title><link href="https://mdecadp2018.github.io/site-40623115/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623115/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623115/blog/</id><updated>2018-10-26T09:00:00+08:00</updated><entry><title>2018 Fall CADP課程網誌 第七週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623115/blog/2018-Fall-Project-Blog-W7.html</id><summary type="html">&lt;p&gt;使用CMSimfly過程中，無法解讀 config/content.htm，如何更新程式碼&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623115 吳隆廷 個人網誌</title><link href="https://mdecadp2018.github.io/site-40623115/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623115/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623115/blog/</id><updated>2018-11-09T09:00:00+08:00</updated><entry><title>2018 Fall CADP課程網誌 第九週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W9.html" rel="alternate"></link><published>2018-11-09T09:00:00+08:00</published><updated>2018-11-09T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-11-09:/site-40623115/blog/2018-Fall-Project-Blog-W9.html</id><summary type="html">&lt;p&gt;期中考周~&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中考周~&lt;/p&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;祝福大家考試順利，雖然都考完了。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第八週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W8.html" rel="alternate"></link><published>2018-11-02T09:00:00+08:00</published><updated>2018-11-02T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623115/blog/2018-Fall-Project-Blog-W8.html</id><summary type="html">&lt;p&gt;說明機電資整合設計專案流程所需的相關套件運用與技術.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;說明機電資整合設計專案流程所需的相關套件運用與技術.&lt;/p&gt;
+
+
+&lt;p&gt;上課影片：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yAzfQm2gBEQ"&gt;Youtube-Week8&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;課程內容：&lt;/h2&gt;
+&lt;p&gt;說明機電資整合設計專案流程所需的相關套件運用與技術.&lt;/p&gt;
+&lt;h2&gt;自評成績：70分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第七週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W7.html" rel="alternate"></link><published>2018-10-26T09:00:00+08:00</published><updated>2018-10-26T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623115/blog/2018-Fall-Project-Blog-W7.html</id><summary type="html">&lt;p&gt;使用CMSimfly過程中，無法解讀 config/content.htm，如何更新程式碼&lt;/p&gt;
 &lt;p&gt;利用Virtualbox安裝 Ubuntu 18.04.1 伺服器&lt;/p&gt;
 &lt;p&gt;在Ubuntu 18.04上啟動 https 協定下的 Fossil SCM 伺服器&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;使用CMSimfly過程中，無法解讀 config/content.htm，如何更新程式碼&lt;/p&gt;
@@ -16,7 +31,7 @@
 &lt;p&gt;說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程.&lt;/p&gt;
 &lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .&lt;/p&gt;
 &lt;p&gt;展示如何在先前所建立的虛擬 Ubuntu 18.04 上啟動 https 協定下的 Fossil SCM 伺服器&lt;/p&gt;
-&lt;h2&gt;自評成績：80分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第六週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W6.html" rel="alternate"></link><published>2018-10-19T09:00:00+08:00</published><updated>2018-10-19T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623115/blog/2018-Fall-Project-Blog-W6.html</id><summary type="html">&lt;p&gt;說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結.&lt;/p&gt;
+&lt;h2&gt;自評成績：70分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第六週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W6.html" rel="alternate"></link><published>2018-10-19T09:00:00+08:00</published><updated>2018-10-19T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623115/blog/2018-Fall-Project-Blog-W6.html</id><summary type="html">&lt;p&gt;說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結.&lt;/p&gt;
 &lt;p&gt;說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結.&lt;/p&gt;
 &lt;p&gt;說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排.&lt;/p&gt;
@@ -29,8 +44,10 @@
 &lt;h2&gt;課程內容：&lt;/h2&gt;
 &lt;p&gt;說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結.&lt;/p&gt;
 &lt;p&gt;說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排.&lt;/p&gt;
-&lt;h2&gt;自評成績：80分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第五週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W5.html" rel="alternate"></link><published>2018-10-12T09:00:00+08:00</published><updated>2018-10-12T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623115/blog/2018-Fall-Project-Blog-W5.html</id><summary type="html">&lt;p&gt;如何列出所使用 Python 版次與關鍵字，與如何在網頁上, 將 Brython 執行過的程式, 以 save as 的方式存成近端 .py 檔案。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;如何列出所使用 Python 版次與關鍵字，與如何在網頁上, 將 Brython 執行過的程式, 以 save as 的方式存成近端 .py 檔案。&lt;/p&gt;
+&lt;h2&gt;自評成績：70分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第五週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W5.html" rel="alternate"></link><published>2018-10-12T09:00:00+08:00</published><updated>2018-10-12T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623115/blog/2018-Fall-Project-Blog-W5.html</id><summary type="html">&lt;p&gt;說明如何在網頁上，將 Brython 執行過的程式，以 save as 的方式存成近端 .py 檔案。&lt;/p&gt;
+&lt;p&gt;說明如何列出所使用 Python 版次與關鍵字。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;說明如何在網頁上，將 Brython 執行過的程式，以 save as 的方式存成近端 .py 檔案。&lt;/p&gt;
+&lt;p&gt;說明如何列出所使用 Python 版次與關鍵字。&lt;/p&gt;
 
 
 &lt;p&gt;上課影片：&lt;/p&gt;
@@ -38,9 +55,9 @@
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=n0EPI1J_0mk"&gt;Youtube-Week5-2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;課程內容：&lt;/h2&gt;
-&lt;p&gt;說明如何列出所使用 Python 版次與關鍵字. 如何在網頁中執行 Brython 程式, 學習基本的 Python 程式語法.&lt;/p&gt;
-&lt;p&gt;說明如何在網頁上, 將 Brython 執行過的程式, 以 save as 的方式存成近端 .py 檔案. 並且如何將該程式碼以 highlight 嵌入的方式呈現在 CMSimfly 的頁面上.&lt;/p&gt;
-&lt;h2&gt;自評成績：80分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第四週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W4.html" rel="alternate"></link><published>2018-10-05T09:00:00+08:00</published><updated>2018-10-05T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623115/blog/2018-Fall-Project-Blog-W4.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
+&lt;p&gt;說明如何在網頁上，將 Brython 執行過的程式，以 save as 的方式存成近端 .py 檔案。&lt;/p&gt;
+&lt;p&gt;說明如何列出所使用 Python 版次與關鍵字。&lt;/p&gt;
+&lt;h2&gt;自評成績：75分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第四週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W4.html" rel="alternate"></link><published>2018-10-05T09:00:00+08:00</published><updated>2018-10-05T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623115/blog/2018-Fall-Project-Blog-W4.html</id><summary type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
 &lt;p&gt;Onshape week1 課程使用說明&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明&lt;/p&gt;
 &lt;p&gt;Onshape week1 課程使用說明&lt;/p&gt;
@@ -53,7 +70,15 @@
 &lt;hr&gt;
 &lt;h2&gt;課程內容：&lt;/h2&gt;
 &lt;p&gt;了解如何使用git程式，並管理自己的git網頁和投影片，學習如何使用onshape繪圖軟體。&lt;/p&gt;
-&lt;h2&gt;自評成績：80分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第三週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W3.html" rel="alternate"></link><published>2018-09-28T09:00:00+08:00</published><updated>2018-09-28T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623115/blog/2018-Fall-Project-Blog-W3.html</id><summary type="html">&lt;p&gt;git 基本操作練習&lt;/p&gt;
+&lt;p&gt;進入mde.tw--&amp;gt;18CADP--&amp;gt;OnshapeWeek1使用說明&lt;/p&gt;
+&lt;p&gt;回到cmd命令提示字元--&amp;gt;如果近端不是最新的版本使用git pull更新到最新
+使用cmd命令提示字元--&amp;gt;到自己的資料夾(site)--&amp;gt;輸入python wsgi.py&lt;/p&gt;
+&lt;p&gt;前往瀏覽器開啟https://localhost:8443(目前資料夾版本的近端)--&amp;gt;前往編輯&lt;/p&gt;
+&lt;p&gt;前往Leo launche--&amp;gt;&lt;/p&gt;
+&lt;p&gt;Open pelican.leo開啟網頁編輯--&amp;gt;Save--&amp;gt;按下generate_pages轉成遠端--&amp;gt;提交&lt;/p&gt;
+&lt;p&gt;Open reveal.leo開啟投影片編輯--&amp;gt;Save--&amp;gt;git push--&amp;gt;提交&lt;/p&gt;
+&lt;p&gt;可以直接在網站https://localhost:8444上模擬遠端檢查內容&lt;/p&gt;
+&lt;h2&gt;自評成績：85分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第三週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W3.html" rel="alternate"></link><published>2018-09-28T09:00:00+08:00</published><updated>2018-09-28T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623115/blog/2018-Fall-Project-Blog-W3.html</id><summary type="html">&lt;p&gt;git 基本操作練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;git 基本操作練習&lt;/p&gt;
 
 
@@ -91,18 +116,42 @@
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PNfuu95a3ns&amp;amp;t=746s"&gt;Youtube-Week2-2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;課程內容：&lt;/h2&gt;
-&lt;h2&gt;自評成績：&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第一週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W1.html" rel="alternate"></link><published>2018-09-14T09:00:00+08:00</published><updated>2018-09-14T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623115/blog/2018-Fall-Project-Blog-W1.html</id><summary type="html">&lt;p&gt;開學週，領取個人期中作業網誌&lt;/p&gt;
+&lt;p&gt;前往github網站更改branch，先到setting--&amp;gt;左邊點選Branches，將master改成gh-pages。&lt;/p&gt;
+&lt;p&gt;開啟cmd命令提示字元，到自己的資料夾去檢查分支--&amp;gt;git branch&lt;/p&gt;
+&lt;p&gt;使用cmd命令提示字元在自己的資輛夾中啟動wsgi.py--&amp;gt;python wsgi.py&lt;/p&gt;
+&lt;p&gt;前往瀏覽器開啟https://localhost:8443
+登入網站login--&amp;gt;密碼:admin(預設)&lt;/p&gt;
+&lt;p&gt;開啟shareX--&amp;gt;&lt;/p&gt;
+&lt;p&gt;鍵盤按下Ctrl+Print Screen擷取畫面(範圍)&lt;/p&gt;
+&lt;p&gt;鍵盤按下Shift+Print Screen錄影畫面(範圍)&lt;/p&gt;
+&lt;p&gt;前往Leo launcher--&amp;gt;Open--&amp;gt;自己的資料夾--&amp;gt;cmsimfly.leo--&amp;gt;找到syntaxhighlight(動態)與syntaxhighlight2(靜態)--&amp;gt;加入下列文字來新增近端與動態的圖片紅框&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;style&gt;
+img {
+    border: 3px solid red;
+}
+&lt;/style&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用Leo launche--&amp;gt;Open --&amp;gt;reveal.leo更改投影片內容&lt;/p&gt;
+&lt;p&gt;同方法使用Leo launche--&amp;gt;Open --&amp;gt;pelican.leo更改網誌內容&lt;/p&gt;
+&lt;p&gt;前往cmd命令提示字元--&amp;gt;進入自己的資料夾(site)--&amp;gt;使用git status來檢查是否有異常--&amp;gt;再用git add . 新增全部更新內容--&amp;gt;git commit -m "文字說明" 提交--&amp;gt;最後 git push 完成推送&lt;/p&gt;
+&lt;h2&gt;自評成績：85分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall CADP課程網誌 第一週</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog-W1.html" rel="alternate"></link><published>2018-09-14T09:00:00+08:00</published><updated>2018-09-14T09:00:00+08:00</updated><author><name>40623115</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623115/blog/2018-Fall-Project-Blog-W1.html</id><summary type="html">&lt;p&gt;開學週，領取個人期中作業網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;開學週，領取個人期中作業網誌&lt;/p&gt;
 
 
 &lt;p&gt;上課影片：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc&amp;amp;t=776s"&gt;Youtube-Week1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;Youtube-Week1&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;課程內容：&lt;/h2&gt;
+&lt;p&gt;進入mde.tw網站後，前往issue --&amp;gt;Week1 登入gittub後連結至 https://classroom.github.com/a/fGqXU9kO 領取個人期中作業。&lt;/p&gt;
+&lt;p&gt;在github倉儲中在網誌中加入github.io的命令 例: https://mdecadp2018.github.io/site-40623115就會連結到個人網站。
+前往cmd命令提示字元，將github個人倉儲 clone 下來。&lt;/p&gt;
+&lt;p&gt;使用cmd命令提示字元進入site資料夾，使用git branch 檢查分支，並利用git checkout 更換分支master--&amp;gt;gh-pages。&lt;/p&gt;
+&lt;p&gt;在cmd命令提示字元輸入python wsgi.py近端啟動[動態]個人網站。
+login進入編輯[動態]個人網站--&amp;gt;密碼admin(預設)。&lt;/p&gt;
+&lt;p&gt;點擊Edit All可編輯所有個人網站的頁面。&lt;/p&gt;
+&lt;p&gt;編輯完畢後，按下Save鍵或Ctrl+S儲存頁面，接著按下頁面右上角黑色按鈕generate_pages轉換成遠端。&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;記得攜帶筆記本、耳機、USB隨身碟及建立Onshape帳號。&lt;/p&gt;
-&lt;p&gt;說明如何利用 p37 中的 git 建立個人的 Github Pages 網站。&lt;/p&gt;
-&lt;p&gt;利用 &lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;https://classroom.github.com/a/fGqXU9kO&lt;/a&gt; 領取個人期中作業網誌。&lt;/p&gt;
-&lt;h2&gt;自評成績：80分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623115/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;h2&gt;自評成績：85分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623115/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623115/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 

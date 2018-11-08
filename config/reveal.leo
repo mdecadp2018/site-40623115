@@ -327,13 +327,17 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180928002403.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180928002504.1">
 &lt;iframe src="https://clients5.google.com/pagead/drt/dn/"&gt;&lt;/iframe&gt;
 
@@ -433,17 +437,21 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20181102102657.3"># Week 3
 
 </t>
-<t tx="leo.20181102102657.4">&lt;section data-markdown&gt;
+<t tx="leo.20181102102657.4">
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181102102657.5">
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102102657.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
 
 
 </t>
@@ -459,7 +467,9 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102102658.3"># Week 4
 
 
@@ -487,18 +497,22 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20181102102659.3"># Week 5
 
 
 </t>
-<t tx="leo.20181102102659.4">&lt;section data-markdown&gt;
+<t tx="leo.20181102102659.4">
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181102102659.5">
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102102659.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
 
 
 </t>
@@ -525,7 +539,9 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102102714.5">
 
 
@@ -542,18 +558,22 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20181102102715.3"># Week 7
 
 
 </t>
-<t tx="leo.20181102102715.4">&lt;section data-markdown&gt;
+<t tx="leo.20181102102715.4">
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181102102715.5">
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102102715.5">&lt;!-- 請注意, @others 不可以內縮 --&gt;
 
 
 </t>
@@ -569,7 +589,9 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102102952.3"># Week 2
 
 ### 第二週
@@ -610,7 +632,9 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102111019.5">個人影片
 </t>
 </tnodes>
